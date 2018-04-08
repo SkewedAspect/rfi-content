@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="256"
    height="256"
    id="svg2684"
    sodipodi:version="0.32"
-   inkscape:version="0.43"
+   inkscape:version="0.91 r13725"
    version="1.0"
-   sodipodi:docbase="/home/whitelynx/development/precursors/gamedata/gui/schemes/sleekspace"
    sodipodi:docname="sleekspace.svg"
-   inkscape:export-filename="/home/whitelynx/development/precursors/gamedata/gui/schemes/sleekspace/sleekspace.png"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
+   inkscape:export-filename="/Users/ccase/Downloads/sleekspace/sleekspace_highres.png"
+   inkscape:export-xdpi="1440"
+   inkscape:export-ydpi="1440">
   <defs
      id="defs2686">
     <marker
@@ -53,26 +53,35 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="48.069447"
-     inkscape:cy="40.881078"
+     inkscape:zoom="11.313708"
+     inkscape:cx="102.87651"
+     inkscape:cy="206.97758"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
-     inkscape:window-width="1276"
-     inkscape:window-height="996"
-     inkscape:window-x="1280"
-     inkscape:window-y="0"
-     gridcolor="#ffffff"
-     gridopacity="0.14117647"
-     gridempcolor="#6c6cff"
-     gridempopacity="0.37647059"
-     gridempspacing="7"
+     inkscape:window-width="1680"
+     inkscape:window-height="1005"
+     inkscape:window-x="1"
+     inkscape:window-y="1"
      showguides="true"
      gridtolerance="1px"
      showborder="true"
-     inkscape:grid-points="true" />
+     inkscape:grid-points="true"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       id="GridFromPre046Settings"
+       type="xygrid"
+       originx="0px"
+       originy="0px"
+       spacingx="1px"
+       spacingy="1px"
+       color="#ffffff"
+       empcolor="#6c6cff"
+       opacity="0.14117647"
+       empopacity="0.37647059"
+       empspacing="7" />
+  </sodipodi:namedview>
   <metadata
      id="metadata2689">
     <rdf:RDF>
@@ -117,13 +126,6 @@
        style="opacity:1;color:#000000;fill:#001726;fill-opacity:1;fill-rule:nonzero;stroke:#0099ff;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block;overflow:visible"
        d="M 8.4999983,8.4999999 L 8.4999983,65.499995 L 56.716581,65.499995 L 65.499993,56.716583 L 65.499993,8.4999999 L 8.4999983,8.4999999 z "
        id="rect3588" />
-    <rect
-       style="color:#000000;fill:#18457f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
-       id="rect4486"
-       width="52"
-       height="19"
-       x="11"
-       y="11" />
     <path
        style="opacity:1;color:#000000;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#0099ff;stroke-width:0.99999839;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block;overflow:visible"
        d="M 55.499999,62.500001 L 62.499999,55.500002"
@@ -789,5 +791,30 @@
        d="M 30,184 L 32,186 L 63,186 L 63,217 L 65,219 L 65,184 L 30,184 z "
        id="path1412"
        sodipodi:nodetypes="ccccccc" />
+    <rect
+       style="color:#000000;display:block;visibility:visible;opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:#777777;stroke-width:0.99999875;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none"
+       id="rect3468"
+       width="16"
+       height="25.000004"
+       x="127.50003"
+       y="9.500001" />
+    <path
+       id="path4276"
+       d="m 80.499998,38.5 0,37 48.216582,0 8.78341,-8.783417 0,-28.216583 z"
+       style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:1;fill:#001726;fill-opacity:1;fill-rule:nonzero;stroke:#0099ff;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none"
+       sodipodi:nodetypes="cccccc"
+       inkscape:connector-curvature="0" />
+    <rect
+       y="41"
+       x="83"
+       height="19"
+       width="52"
+       id="rect4278"
+       style="color:#000000;display:block;visibility:visible;fill:#18457f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none" />
+    <path
+       id="path4280"
+       d="m 127.5,72.5 7,-6.999998"
+       style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#0099ff;stroke-width:0.99999839;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
