@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
+<svg
+   xmlns:xml="http://www.w3.org/XML/1998/namespace"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="720.00000"
+   inkscape:export-xdpi="720.00000"
+   inkscape:export-filename="/home/morgul/development/precursors/gamedata_source/graphics/terran_flag.png"
+   inkscape:version="0.41"
+   sodipodi:docname="terran_flag.svg"
+   sodipodi:docbase="/home/morgul/development/precursors/gamedata_source/graphics"
+   xml:space="preserve"
+   height="60pt"
+   width="80pt"
+   sodipodi:version="0.32"
+   id="svg602">
+  <metadata
+     id="metadata1405">
+    <rdf:RDF
+       id="RDF1407">
+      <cc:Work
+         id="Work1409"
+         rdf:about="">
+        <dc:format
+           id="format1411">image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+           id="type1413" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs604" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     gridtolerance="0.5pt"
+     gridspacingx="1pt"
+     gridspacingy="1pt"
+     snaptogrid="true"
+     showgrid="false"
+     id="base" />
+  <path
+     sodipodi:nodetypes="ccccc"
+     id="path606"
+     d="M 50 30 C 47.5 30 35 11.25 31.25 7.5 C 41.25 20 50 43.75 50 56.25 C 50 43.75 58.75 20 68.75 7.5 C 65 11.25 52.5 30 50 30 z "
+     style="fill:#ff0000;fill-rule:evenodd;stroke:none;stroke-opacity:1;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;" />
+  <path
+     sodipodi:nodetypes="cccscc"
+     id="path607"
+     d="M 48.75 75 C 48.75 28.75 23.75 3.75 20 0 C 15.02451 -0.122547 5 0 0 0 C 1.25 1.25 11.25 0 17.5 3.75 C 22.85933 6.965599 40 30 35 33.75 C 41.25 31.25 46.25 61.25 48.75 75 z "
+     style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-opacity:1;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;" />
+  <path
+     sodipodi:nodetypes="cccscc"
+     id="path608"
+     d="M 51.25 75.05446 C 51.25 28.80446 76.25 3.804464 80 0.054464 C 84.97549 -0.068083 95 0.054464 100 0.054464 C 98.75 1.304464 88.75 0.054464 82.5 3.804464 C 77.14067 7.020063 60 30.05446 65 33.80446 C 58.75 31.30446 53.75 61.30446 51.25 75.05446 z "
+     style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-opacity:1;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;" />
+  <path
+     sodipodi:nodetypes="ccc"
+     id="path610"
+     d="M 38.84804 41.42157 C 38.75 40 37.5 36.25 36.25 36.25 C 33.75 36.25 37.5 38.75 38.84804 41.42157 z "
+     style="fill:#ff0000;fill-rule:evenodd;stroke:none;stroke-opacity:1;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;" />
+  <path
+     sodipodi:nodetypes="ccc"
+     id="path611"
+     d="M 61.25 41.42157 C 61.34804 40 62.59804 36.25 63.84804 36.25 C 66.34804 36.25 62.59804 38.75 61.25 41.42157 z "
+     style="fill:#ff0000;fill-rule:evenodd;stroke:none;stroke-opacity:1;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;" />
+  <path
+     sodipodi:nodetypes="cccc"
+     id="path612"
+     d="M 60 46.25 C 60 53.75 66.25 65 70 70 C 62.5 61.25 58.75 56.25 57.5 53.75 C 57.5 52.5 58.75 48.75 60 46.25 z "
+     style="fill:#ff0000;fill-rule:evenodd;stroke:none;stroke-opacity:1;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;" />
+  <path
+     sodipodi:nodetypes="cccc"
+     id="path613"
+     d="M 40 46.25 C 40 53.75 33.75 65 30 70 C 37.5 61.25 41.25 56.25 42.5 53.75 C 42.5 52.5 41.25 48.75 40 46.25 z "
+     style="fill:#ff0000;fill-rule:evenodd;stroke:none;stroke-opacity:1;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;" />
+  <g
+     style="fill:#000000;fill-opacity:1;"
+     transform="matrix(0.35,0,0,0.35,-1.562501,-5.3125)"
+     id="g622">
+    <path
+       sodipodi:nodetypes="cccccccccc"
+       id="path618"
+       d="M 118.75 58.75 C 120 57.5 122.5 55 123.75 53.75 C 125 52.5 142.647 54.04412 143.75 53.75 C 143.6029 52.20588 147.5 25.53922 143.75 23.75 L 152.5 18.75 C 151.25 21.25 148.6519 49.06862 148.75 53.75 C 151.25 55 167.5 53.75 170 52.5 C 168.75 53.75 168.75 58.75 165 58.75 C 161.25 58.75 147.5 57.5 143.75 57.5 C 140 57.5 120 58.75 118.75 58.75 z "
+       style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-opacity:1;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;" />
+    <path
+       sodipodi:nodetypes="cccccc"
+       id="path619"
+       d="M 135 27.47417 C 133.75 28.72417 128.75 36.25 127.5 37.5 C 131.25 35 162.5 36.25 165 35 C 167.5 33.75 168.75 32.5 170 31.25 C 166.25 32.5 138.9706 33.52809 135 33.72417 C 131.0294 33.92025 133.75 29.97417 135 27.47417 z "
+       style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-opacity:1;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;" />
+    <path
+       sodipodi:nodetypes="cccccc"
+       id="path620"
+       d="M 143.75 42.5 C 141.25 43.75 136.25 43.75 131.25 43.75 C 131.25 42.5 132.5 41.25 132.5 40 C 131.25 41.25 126.8873 45.14706 127.8186 46.32353 C 128.75 45 136.25 45 142.5 46.25 C 143.75 45 143.75 43.75 143.75 42.5 z "
+       style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-opacity:1;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;" />
+    <path
+       sodipodi:nodetypes="cccccc"
+       id="path621"
+       d="M 150 46.25 C 153.75 44.9264 157.5 44.8528 162.5 43.6764 C 162.5 45 161.25 47.5 161.25 48.75 C 162.5 46.1764 163.75 43.6764 166.25 41.1764 C 160 43.6764 152.5 43.6764 151.25 42.4264 C 151.25 43.6764 151.25 44.9264 150 46.25 z "
+       style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-opacity:1;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;" />
+  </g>
+</svg>
